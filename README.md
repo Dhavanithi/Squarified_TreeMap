@@ -70,5 +70,5 @@ The **Squarified Treemap Visualization** project demonstrates an efficient metho
 ## Output
 
 <p align="center">
-  <img src="C:\Users\Admin\OneDrive\Documents\OneDrive\Pictures\Screenshots" alt="Squarified Treemap Output" width="1000"/>
+  <img src="Screenshots/output.png" alt="Squarified Treemap Output" width="1000"/>
 </p>
