@@ -70,5 +70,5 @@ The **Squarified Treemap Visualization** project demonstrates an efficient metho
 ## Output
 
 <p align="center">
-  <img src="Squarified_treemap/output.png" alt="Squarified Treemap Output" width="1000"/>
+  <img src="Outputs/output.png" alt="Squarified Treemap Output" width="1000"/>
 </p>
